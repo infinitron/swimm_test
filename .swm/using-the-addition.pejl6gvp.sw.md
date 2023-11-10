@@ -13,7 +13,7 @@ The sum fuction accepts two integers and returns their sum
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 test1.cpp
 ```c++
-17     int sum(int a, int b){
+17     int sum1(int a, int b){
 18       return a+b;
 19     }
 ```
