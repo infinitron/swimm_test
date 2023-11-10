@@ -22,6 +22,6 @@ int main(){
   int b=2;
   int c=3;
 
-  std::cout<<sum(multiply(a, b),c);
+  std::cout<<sum1(multiply(a, b),c);
   return 0;
 }
